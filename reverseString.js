@@ -1,3 +1,6 @@
+/*
+	HENSHAW ROWLAND
+*/
 module.exports = {
 	 reverseString: function(str) {
   		var reversedString = "";
